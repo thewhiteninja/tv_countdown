@@ -1,0 +1,26 @@
+body {
+  overflow-x: hidden;
+  margin: 0px;
+  padding: 0px;
+  background: white;  
+}
+#popup{
+	width:550px;
+}
+#list {
+	width:100%;
+	padding:3px;	
+	border-collapse:collapse;	
+}
+#list td{
+	padding:2px;	
+	font-family:arial,sans-serif; font-size:11px;
+}
+
+.finished {
+	background-color:#F5F5F5;
+}
+
+#noserie td {
+	padding-top:1ex;
+}

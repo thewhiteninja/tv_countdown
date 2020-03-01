@@ -1,0 +1,51 @@
+body {
+	background-color:#CCCCCC;
+}
+#panel {
+	width:70%;
+	position:absolute;
+	left:15%;
+	top:8%;
+}
+#loading{
+	margin-top:4ex;
+}
+#tabs .title {
+	font-size:13px;
+}
+#letterlist {
+	font-size:10px;
+}
+#list {
+	font-family:arial,sans-serif;
+	font-size:12px;
+	display:none
+}
+#list label {
+	margin:0px;
+    vertical-align: center;
+}
+#list label:hover {
+	color:#3333CC;
+	cursor:pointer;
+}
+#list tr{
+	vertical-align:top;
+}
+#list .separator td{
+	margin-top:2px;
+	border-top:1px solid #2E6E9E;
+}
+#options {
+	font-family:arial,sans-serif;
+	font-size:11px;
+	width:60%;
+	border-collapse:collapse;
+}
+#options tr td{
+	width:50%;
+	padding:1ex 1em 1ex 1em;
+}
+#options tr {
+	height:38px;
+}

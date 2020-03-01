@@ -1,0 +1,2042 @@
+ 
+<!DOCTYPE html>
+<html lang="de-DE" xmlns="http://www.w3.org/1999/xhtml" class="no-js">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta charset="UTF-8" />
+						<meta name="viewport" content="width=640, initial-scale=0.5" />
+				<meta name="apple-mobile-web-app-capable" content="yes" />
+		<!-- <meta name="apple-mobile-web-app-status-bar-style" content="black"> -->
+		<meta name="apple-mobile-web-app-title" content="PHILIPP ZURMÖHLE">
+		<link rel="apple-touch-icon-precomposed" href="http://www.philippzm.com/wp-content/uploads/2013/07/pz_mobile_icon1.png">
+		<title>PHILIPP ZURMÖHLE – GRAPHIC DESIGN &amp; ILLUSTRATION – PORTFOLIO</title>
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.philippzm.com/feed/" />
+	<link rel="pingback" href="http://www.philippzm.com/xmlrpc.php" />
+	<link rel="shortcut icon" href="http://www.philippzm.com/wp-content/uploads/2013/07/pz_logo1.png" />
+	<!-- <link rel="stylesheet" type="text/css" media="screen" href="/fonts.css" /> -->
+         <link href="http://fnt.webink.com/wfs/webink.css/?project=AA67F51B-9EEB-4071-94FB-C5E66581170A&fonts=0A021AC8-6332-0ED2-6961-D7605858ACE5:f=Pharma-Regular,B8DA0491-70BB-DE97-DD44-643DFC356B39:f=Pharma-Bold" rel="stylesheet" type="text/css"/>
+	<link rel="stylesheet" type="text/css" media="screen" href="http://www.philippzm.com/wp-content/themes/daisho/style.css" />
+	
+	<style type="text/css">
+		#fancybox-close{right:-15px;top:-15px}
+		div#fancybox-content{border-color:#2c2c2c}
+		div#fancybox-title{background-color:#2c2c2c}
+		div#fancybox-outer{background-color:#2c2c2c}
+		div#fancybox-title-inside{color:#333333}
+	</style>
+
+	<meta name='robots' content='noindex,nofollow' />
+<link rel="alternate" type="application/rss+xml" title="PHILIPP ZURMÖHLE &raquo; Feed" href="http://www.philippzm.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="PHILIPP ZURMÖHLE &raquo; Kommentar-Feed" href="http://www.philippzm.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="PHILIPP ZURMÖHLE &raquo; SHOWCASE Kommentar-Feed" href="http://www.philippzm.com/beispiel-seite/feed/" />
+<link rel='stylesheet' id='blogsynthesis-scroll-to-top-style-css'  href='http://www.philippzm.com/wp-content/plugins/jquery-smooth-scroll/css/jss-style.min.css?ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='shortcodesstylecache-css'  href='http://www.philippzm.com/wp-content/themes/daisho/modules//stylecache.css?ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://www.philippzm.com/wp-content/plugins/fancybox-for-wordpress/fancybox/fancybox.css?ver=3.5.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.philippzm.com/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.philippzm.com/wp-content/plugins/jquery-smooth-scroll/js/jss-script.min.js?ver=3.5.2'></script>
+<script type='text/javascript' src='http://www.philippzm.com/wp-content/plugins/fancybox-for-wordpress/fancybox/jquery.fancybox.js?ver=1.3.4'></script>
+<script type='text/javascript' src='http://www.philippzm.com/wp-includes/js/comment-reply.min.js?ver=3.5.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.philippzm.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.philippzm.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='next' title='BRAND IDENTITY' href='http://www.philippzm.com/brand-identity/' />
+<meta name="generator" content="WordPress 3.5.2" />
+<link rel='canonical' href='http://www.philippzm.com/' />
+
+<!-- Fancybox for WordPress v3.0.2 -->
+<script type="text/javascript">
+jQuery(function(){
+
+jQuery.fn.getTitle = function() { // Copy the title of every IMG tag and add it to its parent A so that fancybox can show titles
+	var arr = jQuery("a.fancybox");
+	jQuery.each(arr, function() {
+		var title = jQuery(this).children("img").attr("title");
+		jQuery(this).attr('title',title);
+	})
+}
+
+// Supported file extensions
+var thumbnails = jQuery("a:has(img)").not(".nolightbox").filter( function() { return /\.(jpe?g|png|gif|bmp)$/i.test(jQuery(this).attr('href')) });
+
+thumbnails.addClass("fancybox").attr("rel","fancybox").getTitle();
+jQuery("a.fancybox").fancybox({
+	'cyclic': false,
+	'autoScale': true,
+	'padding': 0,
+	'opacity': true,
+	'speedIn': 500,
+	'speedOut': 500,
+	'changeSpeed': 300,
+	'overlayShow': true,
+	'overlayOpacity': "1",
+	'overlayColor': "#2c2c2c",
+	'titleShow': false,
+	'titlePosition': 'inside',
+	'enableEscapeButton': true,
+	'showCloseButton': true,
+	'showNavArrows': true,
+	'hideOnOverlayClick': true,
+	'hideOnContentClick': false,
+	'width': 560,
+	'height': 340,
+	'transitionIn': "fade",
+	'transitionOut': "fade",
+	'centerOnScroll': true
+});
+
+
+})
+</script>
+<!-- END Fancybox for WordPress -->
+<style type="text/css"> .conatainer_language_selector { top: 5px; left: 170px; } .flow_smart_menu li a span.menu-icon { display: none; } .flow_smart_menu li a { color: #868686; } .flow_smart_menu li.current_page_item a { color: #95afbe; } .flow_smart_menu li:hover a { color: #02a2ff; } .flow_smart_menu li:hover > a span:first-child { color: #02a2ff; } .flow_smart_menu > li.menu-item-has-submenu:hover > a span:last-child { background-color: #ffffff; } #options ul { display: none; } #filters { display: none; } #filters li:first-child { display: none; }</style><meta name="description" content="Portfolio website of German Graphic Designer and Illustrator Philipp Zurmöhle based in Nürnberg. Illustration, identity, logo design, print and web design." />
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	<!--[if IE]>
+		<style type="text/css">
+			.sidebar-left-shadow { border-left:1px solid #dcdcdc; }
+			.sidebar-right-shadow { border-right:1px solid #dcdcdc; }
+		</style>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+	<script type="text/javascript">alert("It looks like your browser doesn't fully support HTML5 and CSS3. You need a recent version of Internet Explorer, Firefox, Chrome or Safari to display this website correctly.");</script>
+	<![endif]-->
+
+	
+	<style type="text/css">body.page {
+    color: #505050;
+    font-family: "Pharma-Regular",Arial,sans-serif;
+    font-size: 100%;
+    padding-top:317px;
+}
+
+#blogtitle {
+    font-family: "Pharma-Bold";
+    font-weight: normal;
+    line-height: 1.1em;
+    padding-right: 68px;
+    position: relative;
+    text-align: right;
+    top: -148px;
+    z-index: 5;
+}
+
+.tn-grid-container #blogtitle {
+    font-family: "Pharma-Bold";
+    font-weight: normal;
+    line-height: 1.1em;
+    padding-right: 95px;
+    position: relative;
+    text-align: right;
+    top: -115px;
+    z-index: 5;
+}
+
+#blogtitle span.sub {
+    color: #868686;
+    /* letter-spacing: 0.006em; */
+}
+
+/* FIXED LOGO */
+#logo-text, #logo-image, .logo-image {
+    height: 61px;
+    position: fixed;
+    top:192px;
+    margin-left:46px;
+    z-index:50;
+}
+
+/* FIXED HEADER */
+
+#header {
+    position: fixed; 
+}
+
+#header .inner {
+    border-bottom: 0px;
+    height: 100%;
+    margin: 0 auto;
+    max-width: 980px;
+    min-height: 150px;
+    position: relative;
+    transition: width 0.2s ease 0s;
+    width: 92%;
+}
+
+
+/* NAVIGATION */
+
+/* 
+.menu-hauptnavigation-container { margin: 0px auto;  background-color: rgba(0,0,0,0.6); border-top: 2px solid white; border-bottom: 2px solid white; }
+*/
+
+#navigation {
+    background: none repeat scroll 0 0 #f8f8f8;
+    left: 0;
+    padding: 30px 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    border-bottom: 1px solid #e4e4e4;
+}
+
+ul#menu {
+    padding: 0 0 0 6.75em;
+}
+
+.flow_smart_menu li a {
+    clear: both;
+    color: #858585;
+    font-family: "Pharma-Bold",sans-serif;
+    font-size: 13px;
+    letter-spacing: 0.04em;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.flow_smart_menu li:hover > a span:first-child {
+    color: #afcbdb;
+    background: #f8f8f8;
+}
+
+.flow_smart_menu li.menu-item-has-submenu:hover > a span:first-child {
+    color: #afcbdb;
+    background: #f8f8f8;
+}
+
+.flow_smart_menu li {
+    border-bottom: 1px solid #f8f8f8;
+    border-top: 1px solid #f8f8f8;
+}
+
+
+html .flow_smart_menu li.current-menu-item a span {
+    border-top: 1px solid #95AFBE;
+    padding: 3px 0 0 0;
+}
+
+html .flow_smart_menu li.current-menu-ancestor a span {
+    border-top: 1px solid #858585;
+    padding: 3px 0 0 0;
+}
+
+/*
+html .flow_smart_menu li.current-menu-item a {
+    border-top: 1px solid #95AFBE;
+}
+
+html .flow_smart_menu li.current-menu-ancestor a {
+    border-top: 1px solid #95AFBE;
+}
+*/
+
+
+.flow_smart_menu li.menu-item-has-submenu ul.sub-menu {
+    display:none;
+}
+
+.flow_smart_menu li.menu-item-has-submenu {
+    margin: 0;
+}
+
+.flow_smart_menu .menu-item-has-submenu a span:last-child:after {
+    display:none;
+}
+
+
+
+.element.width3.height2 .symbol p {margin-bottom:20px;}
+
+/* CUSTOMIZED PORTFOLIO ITEMS */
+.element.width3.height3 .symbol {
+    font-family: "Pharma-bold";
+    font-size: 14px;
+}
+
+
+.element.width2.height2 .symbol {
+    font-family: "Pharma-bold";
+    font-size: 14px;
+}
+
+/* LARGE */
+.element.width3.height3 .thumbnail-hover {
+    width:560px;
+    height:380px;
+    margin:40px 0 0 40px;
+}
+
+.element.width3.height3 .symbol {
+    padding:166px 0 0 0;
+    height: 8em;
+    width: 100%;
+}
+.element.width3.height3 .categories {
+    padding:0 0 174px 0;    
+    text-align:center;
+    width: 100%;
+    color: #82614e;
+}
+
+.element.width3.height3 .thumbtitle {
+    color: #000;
+    position:relative;
+    text-align:center;
+}
+.element.width3.height3 .thumbsubtitle {
+    position:relative;
+    top:5px;
+    text-align:center;
+    color: #82614e;
+}
+
+
+/* MEDIUM */
+.element.width2.height2 .thumbnail-hover {
+    width:220px;
+    height:130px;
+    margin:40px 0 0 40px;
+}
+
+.element.width2.height2 .symbol {
+    padding:55px 0 0 0;
+    height: 8em;
+    width: 100%;
+}
+.element.width2.height2 .categories {
+    /*padding:0 0 46px 0;*/    
+    padding:0 46px 46px 46px;
+    width: 100%;
+    text-align:center;
+    color: #82614e;
+}
+
+.element.width2.height2 .categories span {
+    border:1px solid #ffcc00;
+}
+
+.element.width2.height2 .thumbtitle {
+    position:relative;
+    text-align:center;
+    color: #000;
+}
+.element.width2.height2 .thumbsubtitle {
+    position:relative;
+    top:5px;
+    text-align:center;
+    color: #82614e;
+}
+
+
+
+
+
+
+/* HORIZONTAL */
+.element.width2 .thumbnail-hover {
+    width:365px;
+    height:70px;
+    margin:40px 0 0 40px;
+}
+
+.element.width2 .symbol {
+    padding:50px 0 0 50px;
+    font-size: 125%;
+}
+.element.width2 .categories {
+    padding:0 0 40px 65px;
+}
+
+
+/* VERTICAL */
+.element.vertical-thumbnail.height2 .thumbnail-hover {
+    width:140px;
+    height:225px;
+    margin:40px 0 0 40px;
+}
+
+.element.vertical-thumbnail.height2 .symbol {
+    width:100px;
+    padding:50px 0 0 50px;
+    font-size: 125%;
+}
+.element.vertical-thumbnail.height2 .categories {
+    padding:0 0 40px 65px;
+}
+
+
+
+/* SMALL */
+.element .thumbnail-hover {
+    width:140px;
+    height:70px;
+    margin:40px 0 0 40px;
+}
+
+.element .symbol {
+    padding:50px 0 0 50px;
+    font-size: 125%;
+}
+.element .categories {
+    padding:0 0 35px 65px;
+}
+
+
+/* HOLY LOGO tweener */
+
+/*
+#logo-image
+{
+	
+	-webkit-filter: invert(0) contrast(1);	
+	filter: invert(0) contrast(0);			    
+	
+    -webkit-transition: all 250ms ease-in;
+    -moz-transition: all 250ms ease-in;
+    transition: all 250ms ease-in;
+}
+
+
+#logo-image.tweener
+{
+	-webkit-filter: invert(1) contrast(2);	
+	filter: invert(1) contrast(2);			   
+	
+    -webkit-transition: all 250ms ease-in;
+    -moz-transition: all 250ms ease-in;
+    transition: all 250ms ease-in;
+}
+*/
+
+/* SVG variation */
+
+#logo-image svg path
+{
+	
+	fill: #272627;			    
+	
+    -webkit-transition: all 250ms ease-in;
+    -moz-transition: all 250ms ease-in;
+    transition: all 250ms ease-in;
+}
+
+
+#logo-image.tweener svg path
+{
+			   
+	fill: #F8F8F8;
+    
+    -webkit-transition: all 250ms ease-in;
+    -moz-transition: all 250ms ease-in;
+    transition: all 250ms ease-in;
+}
+
+.widget_text  {
+    color: #858585;
+    font-family: "Pharma-Bold",sans-serif;
+    font-size: 13px;
+    letter-spacing: 0.04em;
+    font-weight: normal;
+}
+
+#magic-line { position: absolute; bottom: 30px; left: 0; width: 100px; height: 1px; background: #afcbdb; }</style>	<script type="text/javascript">
+		jQuery(document).ready(function(){
+			jQuery('body').addClass('body-visible');
+                         jQuery('body').css("display", "none");
+                         jQuery('body').fadeIn(500);
+
+                      var $el, leftPos, newWidth;
+	             $mainNav = jQuery('#menu');
+
+	             $mainNav.append("<li id='magic-line'></li>");
+	             var $magicLine = jQuery('#magic-line');
+
+                      $magicLine.css("background", "#f8f8f8");
+                      $magicLine
+        	              .width(jQuery('li.menu-item').width() - 26)
+	              .css('left', jQuery('li.menu-item').position().left)
+	              .data('origLeft', $magicLine.position().left)
+	              .data('origWidth', $magicLine.width());
+                      $magicLine
+        	              .width(jQuery('.current_page_item').width() - 26)
+	              .css('left', jQuery('li.current_page_item').position().left)
+	              .data('origLeft', $magicLine.position().left)
+	              .data('origWidth', $magicLine.width());
+
+	             jQuery('#menu li').hover(function() {
+	                 $el = jQuery(this);
+	                 leftPos = jQuery(this).position().left + 13;
+                          console.log( "POSITION MAGIC LINE: " + leftPos + ", " + newWidth );
+	                 newWidth = $el.width() - 26;
+                          $magicLine.css("background", "#AFCBDB");
+	                 $magicLine.stop().animate({
+	                     left: leftPos,
+	                     width: newWidth
+	                 });
+	             }, function() {
+                          $magicLine.css("background", "#f8f8f8");
+	                 $magicLine.stop().animate({
+	                     left: $magicLine.data('origLeft'),
+	                     width: $magicLine.data('origWidth'),
+	                 });
+	             });
+
+                         var DELTA = jQuery('#logo-image').offset().top - ( jQuery('#logo-image').height() / 2 );
+
+			jQuery(document).on("scroll", function( e )
+			{
+                                 console.log( "Scroll offset body: " + jQuery(document).scrollTop() );
+				console.log( "deltaLogo: " + DELTA );
+				var flag = ( DELTA > jQuery(document).scrollTop() ) ? true : false;
+				console.log( "Is logo above?" + flag );
+				switch( flag )
+				{
+					case( true ):
+						jQuery('#logo-image').removeClass( "tweener" );
+						break;
+					case( false ):
+						jQuery('#logo-image').addClass( "tweener" );
+						break;
+				}
+			})
+
+		});
+	</script>
+</head>
+<body class="home page page-id-2 page-template page-template-template-portoflio-php responsive flow-skin-0 daisho-portfolio">
+<div class="header-search-form"><form method="get" action="http://www.philippzm.com/">
+	<textarea name="s" cols="15" rows="2" class="s SearchInput header-search-input"></textarea>
+</form>
+<div class="search-message">Press Enter to Search</div></div>
+
+
+
+
+
+
+<header id="header">
+
+
+         <div class="inner clearfix">
+
+		<div id="logo-image"><a title="DESIGN PORTFOLIO" href="http://www.philippzm.com"><svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="65px" height="65px" viewBox="0 0 65 65" enable-background="new 0 0 65 65" xml:space="preserve">
+<path fill="#423A35" d="M52.186,4.915c0.046,0.473,0.056,0.928,0.009,1.351c-0.405,3.644-1.923,4.352-2.632,4.352
+	c-0.708,0-1.112-0.607-3.137,0.102c-2.023,0.708-7.894,5.565-15.483,9.816c-7.59,4.25-10.833,5.874-10.833,5.874
+	s6.209,1.542,13.253,4.891c7.654,3.639,11.336,7.153,13.511,9.328c1.872,1.873,2.993,3.184,3.296,3.184
+	c0.304,0,0.607-1.315,1.013-1.214c0.276,0.068,4.199,1.843,6.748,3.054c3.288-4.907,5.207-10.809,5.207-17.159
+	C63.138,19.036,58.882,10.578,52.186,4.915z M18.495,11.933c0,0-4.946-1.835-7.083-6.199C7.306,9.499,4.229,14.362,2.63,19.857
+	c1.423-0.687,3.187-1.535,5.34-2.561C14.346,14.26,18.495,11.933,18.495,11.933z M51.789,45.733c-0.405,0.506-0.708,0.81-0.708,0.81
+	s-3.238-3.542-6.072-5.971c-2.833-2.429-7.965-5.901-10.727-6.78c-2.227-0.708-3.239-0.405-4.757-1.012
+	c-1.518-0.607-2.023-0.506-5.464-1.316c-3.441-0.81-7.792-1.214-9.715-1.113c-1.922,0.101-2.429,0.202-3.339,0.607
+	c-0.622,0.276-5.252,2.486-8.869,4.248c3.066,13.818,15.387,24.156,30.13,24.156c10.277,0,19.377-5.027,24.987-12.752
+	c-2.062-0.868-4.858-2.092-4.858-2.092S52.194,45.228,51.789,45.733z"/>
+</svg></a><div class="clear"></div></div>
+		<nav id="navigation">
+			<div class="menu-hauptnavigation-container"><ul id="menu" class="flow_smart_menu"><li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-depth-0"><a href="http://www.philippzm.com/"><span>SHOWCASE</span></a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-has-submenu parent"><a href="http://www.philippzm.com/brand-identity/"><span>BRAND IDENTITY</span></a>
+<ul class="sub-menu level-0">
+	<li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/leonardo/">LEONARDO – LOGO REDESIGN</a></li>
+	<li id="menu-item-1731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/von-und-zu-buch/">VON &#038; ZU BUCH BOOK SHOP IDENTITY</a></li>
+	<li id="menu-item-657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/ding-3000-identity/">DING 3000 IDENTITY</a></li>
+	<li id="menu-item-1224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/black-fox-identity/">BLACK FOX IDENTITY</a></li>
+	<li id="menu-item-1279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/morten-strauch/">MORTEN STRAUCH PHOTOGRAPHER&#8217;S IDENTITY</a></li>
+	<li id="menu-item-1737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/slik-identity-concept/">SLIK – IDENTITY CONCEPT</a></li>
+	<li id="menu-item-1833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/tassta-identity/">TASSTA – IDENTITY</a></li>
+	<li id="menu-item-1920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/logos/">LOGOS</a></li>
+</ul>
+</li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-has-submenu parent"><a href="http://www.philippzm.com/illustration/"><span>ILLUSTRATION</span></a>
+<ul class="sub-menu level-0">
+	<li id="menu-item-553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/seven-monkeys/">SEVEN MONKEYS – POSTER ILLUSTRATION</a></li>
+	<li id="menu-item-777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/brush-n-arrow/">BRUSH &#038; ARROW – ART PRINT</a></li>
+	<li id="menu-item-548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/buff-scarves/">ORIGINAL BUFF &#8211; ILLUSTRATIONS FOR SCARVES</a></li>
+	<li id="menu-item-813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/herr-menig-optik-ad-postcard-illustrations/">HERR MENIG OPTIK – AD &#038; POSTCARD ILLUSTRATIONS, PART ONE</a></li>
+	<li id="menu-item-966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/bear-n-shapes/">BEAR &#038; SHAPES ILLUSTRATIONS</a></li>
+	<li id="menu-item-1016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/herr-menig-optik-ad-postcard-illustrations-part-2/">HERR MENIG OPTIK – AD &#038; POSTCARD ILLUSTRATIONS, PART TWO</a></li>
+	<li id="menu-item-1073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/impossible-gardens/">IMPOSSIBLE GARDENS</a></li>
+	<li id="menu-item-546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/soft-gallery-kids-clothing-graphics/">SOFT GALLERY – KIDS CLOTHING GRAPHICS</a></li>
+	<li id="menu-item-1297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/phy-if-you/">PHY &#8211; IF YOU – COVER DESIGN</a></li>
+	<li id="menu-item-545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/soft-gallery-kids-clothing-graphics/">SOFT GALLERY – KIDS CLOTHING GRAPHICS</a></li>
+	<li id="menu-item-942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/adidas-cool-culture/">ADIDAS COOL CULTURE RANGE</a></li>
+	<li id="menu-item-910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/adidas-t-shirt-graphics/">ADIDAS T-SHIRT GRAPHICS</a></li>
+	<li id="menu-item-750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/adidas-apparel-graphics/">ADIDAS – APPAREL GRAPHICS</a></li>
+	<li id="menu-item-1345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/jazz-jazz-jazz/">JAZZ JAZZ JAZZ ILLUSTRATION</a></li>
+</ul>
+</li>
+<li id="menu-item-1668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-has-submenu parent"><a href="http://www.philippzm.com/print-design/"><span>PRINT</span></a>
+<ul class="sub-menu level-0">
+	<li id="menu-item-1658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/phy-if-you/">PHY &#8211; IF YOU – COVER DESIGN</a></li>
+	<li id="menu-item-1724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/sonnendeck-festival/">SONNENDECK FESTIVAL – FLYER POSTCARD</a></li>
+	<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/von-und-zu-buch/">VON &#038; ZU BUCH BOOK SHOP IDENTITY</a></li>
+	<li id="menu-item-1743" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/adidas-exploratorium/">ADIDAS – EXPLORATORIUM POSTERS</a></li>
+	<li id="menu-item-1767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/neonchocolate-gallery-flyer/">NEONCHOCOLATE GALLERY – FLYER DESIGN</a></li>
+	<li id="menu-item-1785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/morten-strauch/">MORTEN STRAUCH PHOTOGRAPHER&#8217;S IDENTITY</a></li>
+	<li id="menu-item-1779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/generate-magazine/">GENERATE MAGAZINE – PUBLICATION CONCEPT</a></li>
+	<li id="menu-item-1832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/tassta-identity/">TASSTA – IDENTITY</a></li>
+</ul>
+</li>
+<li id="menu-item-1684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-has-submenu parent"><a href="http://www.philippzm.com/web-design/"><span>WEB</span></a>
+<ul class="sub-menu level-0">
+	<li id="menu-item-1755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/expo-nova/">EXPO NOVA – WEBSITE DESIGN</a></li>
+	<li id="menu-item-1685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/ding-3000-identity/">DING 3000 IDENTITY</a></li>
+	<li id="menu-item-1786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/morten-strauch/">MORTEN STRAUCH PHOTOGRAPHER&#8217;S IDENTITY</a></li>
+	<li id="menu-item-1831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/tassta-identity/">TASSTA – IDENTITY</a></li>
+	<li id="menu-item-2140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/?page_id=2135">ZURMÖHLE JUWELIERE WEBSITE</a></li>
+</ul>
+</li>
+<li id="menu-item-728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-has-submenu parent"><a href="http://www.philippzm.com/artworks/"><span>ARTWORKS</span></a>
+<ul class="sub-menu level-0">
+	<li id="menu-item-681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/enlightenment-series/">ENLIGHTENMENT SERIES</a></li>
+	<li id="menu-item-1114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/monkey-drawings/">MONKEY DRAWINGS</a></li>
+	<li id="menu-item-1804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/duppy-conqueror-drawing/">DUPPY CONQUEROR – DRAWING</a></li>
+	<li id="menu-item-1251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/urban-outfitters-wall-drawing/">URBAN OUTFITTERS – WALL DRAWING</a></li>
+	<li id="menu-item-1252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/brush-n-arrow/">BRUSH &#038; ARROW – ART PRINT</a></li>
+	<li id="menu-item-1761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/konkrete-utopien/">KONKRETE UTOPIEN – ART INSTALLATION</a></li>
+	<li id="menu-item-1773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/snyrt/">SNYRT – SERIES OF ARTWORKS</a></li>
+	<li id="menu-item-2342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/travel-sketches/">TRAVEL SKETCHES</a></li>
+</ul>
+</li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0"><a href="http://www.philippzm.com/profile-contact/"><span>PROFILE &#038; CONTACT</span></a></li>
+</ul></div>		</nav>
+	</div> <!-- /.inner -->
+
+	<div class="mobile-menu-open-wrapper">
+		<div class="mobile-menu-open icon-reorder"></div>
+	</div>
+	<div class="mobile-menu-settings-wrapper">
+		<div class="mobile-menu-settings icon-cog"></div>
+	</div>
+</header>
+
+		<nav id="compact_navigation_container" class="compact_navigation_container ">
+			<div class="clearfix inner">
+				<a class="header-back-to-blog-link " href="javascript:void(null);">
+					<div class="header-back-to-blog clearfix">
+						<div class="header-back-to-blog-icon"></div>
+						<div class="header-back-to-blog-icon-svg">
+							<!-- <svg version="1.1" class="compact-header-arrow-back-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="34px" height="19px" viewBox="0 0 34 19" enable-background="new 0 0 34 19" xml:space="preserve">
+								<polyline fill="none" points="31,16.5 17,2.5 3,16.5 "/>
+							</svg> -->
+							<!-- <svg version="1.1" class="compact-header-arrow-back-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="34px" viewBox="0 0 19 34" enable-background="new 0 0 19 34" xml:space="preserve">
+								<polyline fill="none" points="17, 2.5 3, 16.75 17, 31"/>
+							</svg> -->
+							 <svg version="1.1" class="compact-header-arrow-back-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19.201px" height="34.2px" viewBox="0 0 19.201 34.2" enable-background="new 0 0 19.201 34.2" xml:space="preserve">
+								<polyline fill="none" points="17.101,2.1 2.1,17.1 17.101,32.1 "/>
+							</svg>
+						</div>
+						<div class="header-back-to-blog-message">Back</div>
+					</div>
+				</a>
+
+
+
+				<div class="header-search">
+					<div class="header-search-icon">L</div>
+					<div class="header-search-text">Search</div>
+				</div>
+				<div class="menu-hauptnavigation-container"><ul id="compact_menu" class="flow_smart_menu"><li id="compact-menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-depth-0"><a href="http://www.philippzm.com/">SHOWCASE</a></li>
+<li id="compact-menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-has-submenu parent"><a href="http://www.philippzm.com/brand-identity/">BRAND IDENTITY</a>
+<ul class="sub-menu level-0">
+	<li id="compact-menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/leonardo/">LEONARDO – LOGO REDESIGN</a></li>
+	<li id="compact-menu-item-1731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/von-und-zu-buch/">VON &#038; ZU BUCH BOOK SHOP IDENTITY</a></li>
+	<li id="compact-menu-item-657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/ding-3000-identity/">DING 3000 IDENTITY</a></li>
+	<li id="compact-menu-item-1224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/black-fox-identity/">BLACK FOX IDENTITY</a></li>
+	<li id="compact-menu-item-1279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/morten-strauch/">MORTEN STRAUCH PHOTOGRAPHER&#8217;S IDENTITY</a></li>
+	<li id="compact-menu-item-1737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/slik-identity-concept/">SLIK – IDENTITY CONCEPT</a></li>
+	<li id="compact-menu-item-1833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/tassta-identity/">TASSTA – IDENTITY</a></li>
+	<li id="compact-menu-item-1920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/logos/">LOGOS</a></li>
+</ul>
+</li>
+<li id="compact-menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-has-submenu parent"><a href="http://www.philippzm.com/illustration/">ILLUSTRATION</a>
+<ul class="sub-menu level-0">
+	<li id="compact-menu-item-553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/seven-monkeys/">SEVEN MONKEYS – POSTER ILLUSTRATION</a></li>
+	<li id="compact-menu-item-777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/brush-n-arrow/">BRUSH &#038; ARROW – ART PRINT</a></li>
+	<li id="compact-menu-item-548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/buff-scarves/">ORIGINAL BUFF &#8211; ILLUSTRATIONS FOR SCARVES</a></li>
+	<li id="compact-menu-item-813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/herr-menig-optik-ad-postcard-illustrations/">HERR MENIG OPTIK – AD &#038; POSTCARD ILLUSTRATIONS, PART ONE</a></li>
+	<li id="compact-menu-item-966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/bear-n-shapes/">BEAR &#038; SHAPES ILLUSTRATIONS</a></li>
+	<li id="compact-menu-item-1016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/herr-menig-optik-ad-postcard-illustrations-part-2/">HERR MENIG OPTIK – AD &#038; POSTCARD ILLUSTRATIONS, PART TWO</a></li>
+	<li id="compact-menu-item-1073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/impossible-gardens/">IMPOSSIBLE GARDENS</a></li>
+	<li id="compact-menu-item-546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/soft-gallery-kids-clothing-graphics/">SOFT GALLERY – KIDS CLOTHING GRAPHICS</a></li>
+	<li id="compact-menu-item-1297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/phy-if-you/">PHY &#8211; IF YOU – COVER DESIGN</a></li>
+	<li id="compact-menu-item-545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/soft-gallery-kids-clothing-graphics/">SOFT GALLERY – KIDS CLOTHING GRAPHICS</a></li>
+	<li id="compact-menu-item-942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/adidas-cool-culture/">ADIDAS COOL CULTURE RANGE</a></li>
+	<li id="compact-menu-item-910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/adidas-t-shirt-graphics/">ADIDAS T-SHIRT GRAPHICS</a></li>
+	<li id="compact-menu-item-750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/adidas-apparel-graphics/">ADIDAS – APPAREL GRAPHICS</a></li>
+	<li id="compact-menu-item-1345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/jazz-jazz-jazz/">JAZZ JAZZ JAZZ ILLUSTRATION</a></li>
+</ul>
+</li>
+<li id="compact-menu-item-1668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-has-submenu parent"><a href="http://www.philippzm.com/print-design/">PRINT</a>
+<ul class="sub-menu level-0">
+	<li id="compact-menu-item-1658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/phy-if-you/">PHY &#8211; IF YOU – COVER DESIGN</a></li>
+	<li id="compact-menu-item-1724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/sonnendeck-festival/">SONNENDECK FESTIVAL – FLYER POSTCARD</a></li>
+	<li id="compact-menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/von-und-zu-buch/">VON &#038; ZU BUCH BOOK SHOP IDENTITY</a></li>
+	<li id="compact-menu-item-1743" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/adidas-exploratorium/">ADIDAS – EXPLORATORIUM POSTERS</a></li>
+	<li id="compact-menu-item-1767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/neonchocolate-gallery-flyer/">NEONCHOCOLATE GALLERY – FLYER DESIGN</a></li>
+	<li id="compact-menu-item-1785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/morten-strauch/">MORTEN STRAUCH PHOTOGRAPHER&#8217;S IDENTITY</a></li>
+	<li id="compact-menu-item-1779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/generate-magazine/">GENERATE MAGAZINE – PUBLICATION CONCEPT</a></li>
+	<li id="compact-menu-item-1832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/tassta-identity/">TASSTA – IDENTITY</a></li>
+</ul>
+</li>
+<li id="compact-menu-item-1684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-has-submenu parent"><a href="http://www.philippzm.com/web-design/">WEB</a>
+<ul class="sub-menu level-0">
+	<li id="compact-menu-item-1755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/expo-nova/">EXPO NOVA – WEBSITE DESIGN</a></li>
+	<li id="compact-menu-item-1685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/ding-3000-identity/">DING 3000 IDENTITY</a></li>
+	<li id="compact-menu-item-1786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/morten-strauch/">MORTEN STRAUCH PHOTOGRAPHER&#8217;S IDENTITY</a></li>
+	<li id="compact-menu-item-1831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/tassta-identity/">TASSTA – IDENTITY</a></li>
+	<li id="compact-menu-item-2140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/?page_id=2135">ZURMÖHLE JUWELIERE WEBSITE</a></li>
+</ul>
+</li>
+<li id="compact-menu-item-728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-has-submenu parent"><a href="http://www.philippzm.com/artworks/">ARTWORKS</a>
+<ul class="sub-menu level-0">
+	<li id="compact-menu-item-681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/enlightenment-series/">ENLIGHTENMENT SERIES</a></li>
+	<li id="compact-menu-item-1114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/monkey-drawings/">MONKEY DRAWINGS</a></li>
+	<li id="compact-menu-item-1804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/duppy-conqueror-drawing/">DUPPY CONQUEROR – DRAWING</a></li>
+	<li id="compact-menu-item-1251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/urban-outfitters-wall-drawing/">URBAN OUTFITTERS – WALL DRAWING</a></li>
+	<li id="compact-menu-item-1252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/brush-n-arrow/">BRUSH &#038; ARROW – ART PRINT</a></li>
+	<li id="compact-menu-item-1761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/konkrete-utopien/">KONKRETE UTOPIEN – ART INSTALLATION</a></li>
+	<li id="compact-menu-item-1773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/snyrt/">SNYRT – SERIES OF ARTWORKS</a></li>
+	<li id="compact-menu-item-2342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/travel-sketches/">TRAVEL SKETCHES</a></li>
+</ul>
+</li>
+<li id="compact-menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0"><a href="http://www.philippzm.com/profile-contact/">PROFILE &#038; CONTACT</a></li>
+</ul></div>			</div>
+		</nav>
+
+
+	<div class="project-navigation">
+		<div class="portfolio-arrowleft portfolio-arrowleft-normal portfolio-arrowleft-visible">&lt;</div>
+		<div class="portfolio-arrowright portfolio-arrowright-normal portfolio-arrowright-visible">&gt;</div>
+	</div>
+	
+	<div class="portfolio-arrowleft portfolio-arrowleft-mobile portfolio-arrowleft-visible">&lt;</div>
+	<div class="portfolio-arrowright portfolio-arrowright-mobile portfolio-arrowright-visible">&gt;</div>
+	
+	<div class="portfolio_box">
+		<div class="content-projectc">
+			<div class="project-meta">
+				<div class="project-meta-col-1">
+					<div class="project-meta-data project-date clearfix">
+						<div class="project-meta-heading">DATE</div>
+						<div class="project-meta-description project-exdate"></div>
+					</div>
+					<div class="project-meta-data project-client clearfix">
+						<div class="project-meta-heading">CLIENT</div>
+						<div class="project-meta-description project-exclient"></div>
+					</div>
+					<div class="project-meta-data project-agency clearfix">
+						<div class="project-meta-heading">AGENCY</div>
+						<div class="project-meta-description project-exagency"></div>
+					</div>
+				</div>
+				<div class="project-meta-col-2">
+					<div class="project-meta-data project-ourrole clearfix">
+						<div class="project-meta-heading">OUR ROLE</div>
+						<div class="project-meta-description project-exourrole"></div>
+					</div>
+				</div>
+			</div>
+			<div class="sharing-icons">
+				<a href="https://twitter.com/share?url=http://www.philippzm.com&amp;text=PHILIPP+ZURM%C3%96HLE" target="_blank" class="sharing-icons-twitter">
+					<span class="sharing-icons-icon">t</span>
+					<span class="sharing-icons-tooltip" data-tooltip="Twitter"></span>
+				</a>
+				<a href="http://www.facebook.com/sharer.php?u=http://www.philippzm.com&amp;t=PHILIPP+ZURM%C3%96HLE" target="_blank" class="sharing-icons-facebook">
+					<span class="sharing-icons-icon">f</span>
+					<span class="sharing-icons-tooltip" data-tooltip="Facebook"></span>
+				</a>
+				<a href="https://plus.google.com/share?url=http://www.philippzm.com" target="_blank" class="sharing-icons-googleplus">
+					<span class="sharing-icons-icon">g</span>
+					<span class="sharing-icons-tooltip" data-tooltip="Google+"></span>
+				</a>
+			</div>
+			<h2 class="project-title"></h2>
+			<div class="project-description"></div>
+			<div class="project-slides"></div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div class="project-coverslide "></div>
+	<div class="tn-grid-container clearfix">
+
+         <div id="blogtitle">
+          PHILIPP ZURMÖHLE<br /><span class="sub">DESIGN PORTFOLIO</span>
+         </div>
+		<section class="tn-grid-container-inner clearfix">
+			<section id="options" class="clearfix">
+
+
+				<ul id="filters" class="option-set clearfix" data-option-key="filter">
+					<li><a href="#filter" data-project-category-id="all" data-option-value="*" class="selected">All Works</a></li>
+									</ul>
+				<ul id="etc" class="clearfix">
+					<li id="toggle-sizes">
+						<a href="#toggle-sizes" class="toggle-selected">
+							<svg version="1.1" class="toggle-sizes-large-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="18px" viewBox="0 0 28 18" enable-background="new 0 0 28 18" xml:space="preserve">
+								<g>
+									<path fill-rule="evenodd" clip-rule="evenodd" fill="none" d="M2,0h14c1.105,0,2,0.895,2,2V16c0,1.104-0.895,2-2,2H2
+										c-1.105,0-2-0.895-2-2V2C0,0.895,0.895,0,2,0z"/>
+									<path fill-rule="evenodd" clip-rule="evenodd" fill="none" d="M22.001,0H26c1.105,0,2,0.895,2,2V6C28,7.104,27.105,8,26,8h-3.999
+										C20.895,8,20,7.104,20,6V2C20,0.895,20.895,0,22.001,0z"/>
+									<path fill-rule="evenodd" clip-rule="evenodd" fill="none" d="M22.001,10H26c1.105,0,2,0.895,2,1.999V16c0,1.104-0.895,2-2,2
+										h-3.999C20.895,18,20,17.105,20,16V12C20,10.896,20.895,10,22.001,10z"/>
+								</g>
+							</svg>
+						</a>
+						<a href="#toggle-sizes">
+							<svg version="1.1" class="toggle-sizes-small-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="28px" height="18px" viewBox="0 0 28 18" enable-background="new 0 0 28 18" xml:space="preserve">
+								<g>
+									<path fill-rule="evenodd" clip-rule="evenodd" fill="none" d="M2.001,0h4C7.104,0,8,0.895,8,2V6c0,1.104-0.896,2-1.999,2h-4
+										C0.896,8,0,7.104,0,6V2C0,0.895,0.896,0,2.001,0z"/>
+									<path fill-rule="evenodd" clip-rule="evenodd" fill="none" d="M12,0h4.001C17.105,0,18,0.895,18,2V6c0,1.104-0.895,2-1.998,2H12
+										c-1.105,0-2-0.896-2-2V2C10,0.895,10.895,0,12,0z"/>
+									<path fill-rule="evenodd" clip-rule="evenodd" fill="none" d="M22.001,0h4C27.104,0,28,0.895,28,2V6c0,1.104-0.896,2-1.999,2h-4
+										C20.896,8,20,7.104,20,6V2C20,0.895,20.896,0,22.001,0z"/>
+									<path fill-rule="evenodd" clip-rule="evenodd" fill="none" d="M2.001,10h4C7.104,10,8,10.895,8,12V16c0,1.104-0.896,2-1.999,2h-4
+										C0.896,18,0,17.105,0,16V12C0,10.895,0.896,10,2.001,10z"/>
+									<path fill-rule="evenodd" clip-rule="evenodd" fill="none" d="M12,10h4.001C17.105,10,18,10.895,18,12V16c0,1.104-0.895,2-1.998,2
+										H12c-1.105,0-2-0.895-2-2V12C10,10.895,10.895,10,12,10z"/>
+									<path fill-rule="evenodd" clip-rule="evenodd" fill="none" d="M22.001,10h4C27.104,10,28,10.895,28,12V16c0,1.104-0.896,2-1.999,2
+										h-4C20.896,18,20,17.105,20,16V12C20,10.895,20.896,10,22.001,10z"/>
+								</g>
+							</svg>
+						</a>
+					</li>
+														</ul>
+			</section> <!-- #options -->
+
+			<div id="container" class="clickable variable-sizes clearfix">
+												<div class="element apparel illustration portfolio-category-5 portfolio-category-4  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/buff-scarves/" ></a>									<p class="number">7</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#2c2c2e;'>ORIGINAL BUFF</div>                 <div class='thumbsubtitle' style='color:#80604b;'>ILLUSTRATIONS FOR SCARVES</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#80604b;'>APPAREL, ILLUSTRATION</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #eedf5b;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/buff-thumbnail.jpg" alt="" />
+																												<div style="background-color: #eedf5b; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element brand-identity graphic-design logo-design portfolio-category-8 portfolio-category-3 portfolio-category-9  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/leonardo/" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#ffffff;'>LEONARDO</div>                 <div class='thumbsubtitle' style='color:#c1bdbc;'>Logo Redesign</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#c1bdbc;'>BRAND IDENTITY, GRAPHIC DESIGN, LOGO DESIGN</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #12113d;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/07/leonardo_300x210.jpg" alt="" />
+																												<div style="background-color: #12113d; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element drawing illustration portfolio-category-11 portfolio-category-4  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/seven-monkeys" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#2b2a28;'>SEVEN MONKEYS</div>                 <div class='thumbsubtitle' style='color:#446375;'>poster illustration</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#446375;'>DRAWING, ILLUSTRATION</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #e2e0d4;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/seven-monkeys-thumbnail.jpg" alt="" />
+																												<div style="background-color: #e2e0d4; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element brand-identity logo-design print-design web-design portfolio-category-8 portfolio-category-9 portfolio-category-18 portfolio-category-16  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/ding-3000-identity" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#ace5c1;'>DING 3000</div>                 <div class='thumbsubtitle' style='color:#24cca4;'>IDENTITY</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#24cca4;'>BRAND IDENTITY, LOGO DESIGN, PRINT, WEB</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #0d5734;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/09/ding-3000-thumbnail.jpg" alt="" />
+																												<div style="background-color: #0d5734; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element graphic-design illustration portfolio-category-3 portfolio-category-4  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/impossible-gardens" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#efe8d8;'>IMPOSSIBLE GARDENS</div>                 <div class='thumbsubtitle' style='color:#c0aaa8;'>Poster Illustration</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#c0aaa8;'>GRAPHIC DESIGN, ILLUSTRATION</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #202024;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/08/impossible-gardens.jpg" alt="" />
+																												<div style="background-color: #202024; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element advertisement illustration portfolio-category-12 portfolio-category-4  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/herr-menig-optik-ad-postcard-illustrations-part-2" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#f2eeed;'>HERR MENIG OPTIK</div>                 <div class='thumbsubtitle' style='color:#f4dac6;'>ILLUSTRATIONS, PART TWO</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#f4dac6;'>ADVERTISEMENT, ILLUSTRATION</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #442204;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/herr-menig-thumbnail-02.jpg" alt="" />
+																												<div style="background-color: #442204; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element artworks illustration portfolio-category-15 portfolio-category-4  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/brush-n-arrow" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#efe8c9;'>BRUSH &#038; ARROW</div>                 <div class='thumbsubtitle' style='color:#dfdeda;'>ART PRINT</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#dfdeda;'>ARTWORKS, ILLUSTRATION</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #14514b;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/09/brush-n-arrow-thumbnail.jpg" alt="" />
+																												<div style="background-color: #14514b; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element brand-identity logo-design print-design portfolio-category-8 portfolio-category-9 portfolio-category-18  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/von-und-zu-buch" ></a>									<p class="number">7</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#0a2337;'>VON &#038; ZU BUCH</div>                 <div class='thumbsubtitle' style='color:#2e4e67;'>BOOK SHOP IDENTITY</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#2e4e67;'>BRAND IDENTITY, LOGO DESIGN, PRINT</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #e9efeb;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/11/von-und-zu-buch-thumbnail.jpg" alt="" />
+																												<div style="background-color: #e9efeb; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element apparel typography portfolio-category-5 portfolio-category-10  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/adidas-cool-culture" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#808ba7;'>ADIDAS</div>                 <div class='thumbsubtitle' style='color:#315086;'>COOL CULTURE RANGE</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#315086;'>APPAREL, TYPOGRAPHY</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #ffffff;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/adidas-cool-culture-thumbnail.jpg" alt="" />
+																												<div style="background-color: #ffffff; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element advertisement illustration print-design typography portfolio-category-12 portfolio-category-4 portfolio-category-18 portfolio-category-10  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/sonnendeck-festival" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#ee8484;'>SONNENDECK FESTIVAL</div>                 <div class='thumbsubtitle' style='color:#dcdfc6;'>FLYER POSTCARD</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#dcdfc6;'>ADVERTISEMENT, ILLUSTRATION, PRINT, TYPOGRAPHY</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #1d3c45;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/sonnendeck-thumbnail.jpg" alt="" />
+																												<div style="background-color: #1d3c45; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element apparel illustration portfolio-category-5 portfolio-category-4  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/adidas-t-shirt-graphics/" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#ffffff;'>ADIDAS</div>                 <div class='thumbsubtitle' style='color:#3b3b3b;'>T-SHIRT GRAPHICS</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#3b3b3b;'>APPAREL, ILLUSTRATION</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #83cfd3;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/adidas-tshirts-thumbnail.jpg" alt="" />
+																												<div style="background-color: #83cfd3; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element artworks drawing painting portfolio-category-15 portfolio-category-11 portfolio-category-14  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/monkey-drawings" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#ffffff;'>MONKEY DRAWINGS</div>                 <div class='thumbsubtitle' style='color:#e58d34;'>SERIES OF ARTWORKS</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#e58d34;'>ARTWORKS, DRAWING, PAINTING</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #15466b;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/monkey-drawings-thumbnail1.jpg" alt="" />
+																												<div style="background-color: #15466b; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element artworks drawing painting portfolio-category-15 portfolio-category-11 portfolio-category-14  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/enlightenment-series" ></a>									<p class="number">7</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#e9eaee;'>ENLIGHTENMENT SERIES</div>                 <div class='thumbsubtitle' style='color:#d4ceb8;'>Artworks</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#d4ceb8;'>ARTWORKS, DRAWING, PAINTING</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #b50101;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/enlightenment-thumbnail.jpg" alt="" />
+																												<div style="background-color: #b50101; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element apparel typography portfolio-category-5 portfolio-category-10  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/adidas-apparel-graphics" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#c2c059;'>ADIDAS</div>                 <div class='thumbsubtitle' style='color:#058cc3;'>Apparel Range Graphics</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#058cc3;'>APPAREL, TYPOGRAPHY</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #1d1d21;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/07/adidas_300x210.jpg" alt="" />
+																												<div style="background-color: #1d1d21; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element brand-identity graphic-design logo-design portfolio-category-8 portfolio-category-3 portfolio-category-9  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/slik-identity-concept" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#ffffff;'>SLIK</div>                 <div class='thumbsubtitle' style='color:#e2ded9;'>IDENTITY CONCEPT</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#e2ded9;'>BRAND IDENTITY, GRAPHIC DESIGN, LOGO DESIGN</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #000000;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/slik-thumbnail.jpg" alt="" />
+																												<div style="background-color: #000000; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element apparel portfolio-category-5  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/soft-gallery" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#ffffff;'>SOFT GALLERY</div>                 <div class='thumbsubtitle' style='color:#878686;'>Kids Clothing Graphics</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#878686;'>APPAREL</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #350000;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/07/rhino_300x210.jpg" alt="" />
+																												<div style="background-color: #350000; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element advertisement illustration portfolio-category-12 portfolio-category-4  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/herr-menig-optik" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#ffffff;'>HERR MENIG OPTIK</div>                 <div class='thumbsubtitle' style='color:#d8b897;'>ILLUSTRATIONS, PART ONE</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#d8b897;'>ADVERTISEMENT, ILLUSTRATION</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #153d0e;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/07/optiker_640x460.jpg" alt="" />
+																												<div style="background-color: #153d0e; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element brand-identity logo-design print-design web-design portfolio-category-8 portfolio-category-9 portfolio-category-18 portfolio-category-16  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/morten-strauch" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#000000;'>MORTEN STRAUCH</div>                 <div class='thumbsubtitle' style='color:#ffffff;'>IDENTITY</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#ffffff;'>BRAND IDENTITY, LOGO DESIGN, PRINT, WEB</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #68b4cc;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/morten-strauch-thumbnail.jpg" alt="" />
+																												<div style="background-color: #68b4cc; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element drawing illustration portfolio-category-11 portfolio-category-4  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href=" http://www.philippzm.com/jazz-jazz-jazz" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#f5c61f;'>JAZZ JAZZ JAZZ</div>                 <div class='thumbsubtitle' style='color:#efeef3;'>ILLUSTRATION</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#efeef3;'>DRAWING, ILLUSTRATION</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #596271;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/jazz-jazz-jazz-thumbnail.jpg" alt="" />
+																												<div style="background-color: #596271; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element brand-identity logo-design portfolio-category-8 portfolio-category-9  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/logos/" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#ffffff;'>LOGO</div>                 <div class='thumbsubtitle' style='color:#d3d3d3;'>COLLECTION</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#d3d3d3;'>BRAND IDENTITY, LOGO DESIGN</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #423a37;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/11/logos-thumbnail.jpg" alt="" />
+																												<div style="background-color: #423a37; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element illustration print-design typography portfolio-category-4 portfolio-category-18 portfolio-category-10  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/phy-if-you" ></a>									<p class="number">7</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#eae6da;'>PHY &#8211; IF YOU</div>                 <div class='thumbsubtitle' style='color:#b1ada2;'>COVER DESIGN</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#b1ada2;'>ILLUSTRATION, PRINT, TYPOGRAPHY</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #252b2a;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/phy-if-you-thumbnail.jpg" alt="" />
+																												<div style="background-color: #252b2a; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element illustration portfolio-category-4  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/bear-n-shapes" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#edd3e5;'>BEAR &#038; SHAPES</div>                 <div class='thumbsubtitle' style='color:#d8d5b3;'>ILLUSTRATION</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#d8d5b3;'>ILLUSTRATION</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #493344;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/bear-n-shapes-thumbnail.jpg" alt="" />
+																												<div style="background-color: #493344; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element brand-identity logo-design portfolio-category-8 portfolio-category-9  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/black-fox-identity/" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#000000;'>BLACK FOX</div>                 <div class='thumbsubtitle' style='color:#ffffff;'>IDENTITY</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#ffffff;'>BRAND IDENTITY, LOGO DESIGN</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #fa6400;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/black-fox-thumbnail.jpg" alt="" />
+																												<div style="background-color: #fa6400; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element artworks drawing painting portfolio-category-15 portfolio-category-11 portfolio-category-14  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/urban-outfitters-wall-drawing" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#f7f7f7;'>URBAN OUTFITTERS</div>                 <div class='thumbsubtitle' style='color:#ffebaa;'>WALL DRAWING</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#ffebaa;'>ARTWORKS, DRAWING, PAINTING</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #aa250d;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/urban-outfitters-thumbnail-02.jpg" alt="" />
+																												<div style="background-color: #aa250d; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element graphic-design logo-design print-design typography portfolio-category-3 portfolio-category-9 portfolio-category-18 portfolio-category-10  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/adidas-exploratorium" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#ffffff;'>ADIDAS</div>                 <div class='thumbsubtitle' style='color:#d3d6cd;'>EXPLORATORIUM POSTERS</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#d3d6cd;'>GRAPHIC DESIGN, LOGO DESIGN, PRINT, TYPOGRAPHY</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #cd551c;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/exploratorium-thumbnail.jpg" alt="" />
+																												<div style="background-color: #cd551c; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element artworks drawing painting portfolio-category-15 portfolio-category-11 portfolio-category-14  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/duppy-conqueror-drawing" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#efecea;'>DUPPY CONQUEROR</div>                 <div class='thumbsubtitle' style='color:#ddeaf0;'>DRAWING</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#ddeaf0;'>ARTWORKS, DRAWING, PAINTING</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #5d4941;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/duppy-conqueror-thumbnail.jpg" alt="" />
+																												<div style="background-color: #5d4941; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element illustration web-design portfolio-category-4 portfolio-category-16  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/expo-nova" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#ffffff;'>EXPO NOVA</div>                 <div class='thumbsubtitle' style='color:#5f5f5f;'>WEBSITE DESIGN</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#5f5f5f;'>ILLUSTRATION, WEB</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #000000;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/expo-nova-thumbnail.jpg" alt="" />
+																												<div style="background-color: #000000; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element artworks drawing painting portfolio-category-15 portfolio-category-11 portfolio-category-14  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href=" http://www.philippzm.com/konkrete-utopien" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#ffffff;'>KONKRETE UTOPIEN</div>                 <div class='thumbsubtitle' style='color:#b1dbbf;'>ART INSTALLATION</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#b1dbbf;'>ARTWORKS, DRAWING, PAINTING</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #127959;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/konkrete-utopien-thumbnail.jpg" alt="" />
+																												<div style="background-color: #127959; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element brand-identity graphic-design illustration print-design portfolio-category-8 portfolio-category-3 portfolio-category-4 portfolio-category-18  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/generate-magazine" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#ffffff;'>GENERATE MAGAZINE</div>                 <div class='thumbsubtitle' style='color:#cdc9ca;'>PUBLICATION CONCEPT</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#cdc9ca;'>BRAND IDENTITY, GRAPHIC DESIGN, ILLUSTRATION, PRINT</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #2c2d28;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/generate-magazine-thumbnail.jpg" alt="" />
+																												<div style="background-color: #2c2d28; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element artworks drawing portfolio-category-15 portfolio-category-11  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/snyrt" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#ffffff;'>SNYRT</div>                 <div class='thumbsubtitle' style='color:#ff6fa2;'>SERIES OF ARTWORKS</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#ff6fa2;'>ARTWORKS, DRAWING</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #780067;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/snyrt-thumbnail-01.jpg" alt="" />
+																												<div style="background-color: #780067; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element advertisement graphic-design print-design typography portfolio-category-12 portfolio-category-3 portfolio-category-18 portfolio-category-10  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/neonchocolate-gallery-flyer" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#ffffff;'>NEONCHOCOLATE GALLERY</div>                 <div class='thumbsubtitle' style='color:#a6a4a5;'>FLYER DESIGN</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#a6a4a5;'>ADVERTISEMENT, GRAPHIC DESIGN, PRINT, TYPOGRAPHY</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #1a1b20;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/10/neonchocolate-flyer-thumbnail.jpg" alt="" />
+																												<div style="background-color: #1a1b20; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+															<div class="element artworks drawing portfolio-category-15 portfolio-category-11  " data-symbol="Mg" data-category="alkaline-earth">
+									<a class="thumbnail-link" href="http://www.philippzm.com/travel-sketches" ></a>									<p class="number">3</p>
+									<div class="thumbnail-meta-data-wrapper">
+
+                <div class="symbol">
+
+                 <div class='thumbtitle' style='color:#ffffff;'>TRAVEL</div>                 <div class='thumbsubtitle' style='color:#e2e2e2;'>SKETCHES</div>
+                </div>
+
+
+
+                                                                         </div>
+									<div class="name"></div>
+
+                <div class='categories' style='color:#e2e2e2;'>ARTWORKS, DRAWING</div>
+									<p class="id" style="display:none;"></p>
+									<div style="background-color: #4a4a4a;" class="thumbnail-hover"></div>
+																														<img class="project-img" src="http://www.philippzm.com/wp-content/uploads/2013/11/sketch-la-rochepot-thumbnail.jpg" alt="" />
+																												<div style="background-color: #4a4a4a; width: 100%; height: 100%; z-index:-2;"></div>
+								</div>
+													</div> <!-- /#container -->
+		</section>
+	</div>
+
+<script type="text/javascript">
+
+jQuery(document).ready(function(){
+	if(Modernizr.touch){
+		jQuery('.element').each(function(){
+			var thumbnail_image = jQuery(this).find('video').attr('poster');
+			if(thumbnail_image !== undefined && thumbnail_image != ''){
+				jQuery(this).find('.thumbnail-hover').after('<img class="project-img" src="' + thumbnail_image + '" alt="" />');
+			}
+			jQuery(this).find('video').remove();
+		});
+	}else{
+
+	}
+});
+
+
+var portfolioArray = [];
+var portfolioArrayValid = [];
+
+
+var projectsArray = [];
+portfolioArray = projectsArray;
+portfolioArrayValid = projectsArray;
+
+	var portfolio_closenum = 0;
+	var portfolio_closedir = false;
+		var homepage_title = jQuery('title').text();
+		//var home_url = "";
+</script><script type="text/javascript">
+function bringPortfolio(current_id){
+
+	// If project with such ID does not exist, load project 0 or do nothing
+	if(portfolioArrayValid[current_id] === undefined){
+		if(portfolioArrayValid.length != 0){
+			bringPortfolio(0);
+		}
+		return;
+	}
+
+	// Assign projects array to variables
+	var title = portfolioArrayValid[current_id][0];
+	if(title == ''){
+		var title = 'Title not specified';
+	}
+	var desc = portfolioArrayValid[current_id][1];
+	var date = portfolioArrayValid[current_id][2];
+	var client = portfolioArrayValid[current_id][3];
+	var agency = portfolioArrayValid[current_id][4];
+	var ourrole = portfolioArrayValid[current_id][5];
+	var slides = portfolioArrayValid[current_id][6];
+	var permalink = portfolioArrayValid[current_id][7];
+	var external_link = portfolioArrayValid[current_id][8]; /* It never exists at this moment but it's reserved space for it */
+	var categories_array = portfolioArrayValid[current_id][9];
+
+	// Count number of projects
+	var number_of_ids = portfolioArrayValid.length;
+
+	// Make it go to the top and fade out current project data
+	jQuery('body,html').animate({scrollTop:0},800);
+	jQuery('.portfolio_box').removeClass('portfolio_box-visible');
+
+	jQuery('body').addClass('daisho-portfolio-viewing-project');
+
+	setTimeout(function(){
+		if(date == ''){ jQuery('.project-date').hide(); }else{ jQuery('.project-date').show(); }
+		if(client == ''){ jQuery('.project-client').hide(); }else{ jQuery('.project-client').show(); }
+		if(agency == ''){ jQuery('.project-agency').hide(); }else{ jQuery('.project-agency').show(); }
+		if(ourrole == ''){ jQuery('.project-ourrole').hide(); }else{ jQuery('.project-ourrole').show(); }
+
+		// Show menu, navigation, containers etc.
+		jQuery('.portfolio_box').addClass('portfolio_box-visible');
+		jQuery('#compact_navigation_container').addClass('compact_navigation_container-visible');
+		jQuery('.project-coverslide').addClass('project-coverslide-visible');
+		jQuery('.project-navigation').addClass('project-navigation-visible');
+		jQuery('.portfolio-arrowright').addClass('portfolio-arrowright-visible');
+		jQuery('.portfolio-arrowleft').addClass('portfolio-arrowleft-visible');
+
+		// Add current project data
+		jQuery('.project-title').html(title);
+		jQuery('.project-description').html(desc);
+		jQuery('.project-exdate').html(date);
+		jQuery('.project-exclient').html(client);
+		jQuery('.project-exagency').html(agency);
+		jQuery('.project-exourrole').html(ourrole);
+		jQuery('.project-slides').html(slides);
+
+		// Center and process images in the project view
+		verticalimageflow();
+
+		// Update document title, URL and brwosing history using HTML5 History API
+		if(!window.history.state || (window.history.state.projid != current_id)){
+			window.history.pushState({'cancelback': true, 'projid': current_id}, title, permalink);
+		}
+		jQuery('title').text(title);
+
+		// Setup sharing icons (desktop mode)
+		if(jQuery(".sharing-icons").length){
+			jQuery(".sharing-icons-twitter").attr("href", "https://twitter.com/share?url="+escape(window.location.href)+"&amp;text="+escape(title));
+			jQuery(".sharing-icons-facebook").attr("href", "http://www.facebook.com/sharer.php?u="+escape(window.location.href)+"&amp;t="+escape(title));
+			jQuery(".sharing-icons-googleplus").attr("href", "https://plus.google.com/share?url="+escape(window.location.href));
+		}
+
+		// Re-create controls based on currently viewed project and other settings
+		jQuery('.portfolio-arrowright').unbind('click.nextproject');
+		jQuery('.portfolio-arrowleft').unbind('click.prevproject');
+
+		
+		var this_project = current_id;
+		/* Right Arrow */
+		jQuery('.portfolio-arrowright').on('click.nextproject', function(){
+			current_id++; if(current_id == number_of_ids){ current_id = 0; }
+
+			/* Check if loop through projects in the same (selected) category only, true = yes, false = no */
+			
+			bringPortfolio( current_id );
+		});
+
+		/* Left Arrow */
+		jQuery('.portfolio-arrowleft').on('click.prevproject', function(){
+			current_id--; if(current_id == -1){ current_id = number_of_ids-1; }
+
+			
+			bringPortfolio( current_id );
+		});
+	}, 200); // We wait for CSS3 fade out animation to opacity=0 of .portfolio_box (inner container of portfolio) to complete
+}
+
+function closePortfolioItem(){
+	jQuery('.portfolio_box').removeClass('portfolio_box-visible');
+	jQuery('body').removeClass('daisho-portfolio-viewing-project');
+	jQuery('#compact_navigation_container').removeClass('compact_navigation_container-visible');
+	jQuery('.project-coverslide').removeClass('project-coverslide-visible');
+
+	jQuery('.project-navigation').removeClass('project-navigation-visible');
+	jQuery('.portfolio-arrowright').removeClass('portfolio-arrowright-visible');
+	jQuery('.portfolio-arrowleft').removeClass('portfolio-arrowleft-visible');
+
+	jQuery('.project-slides').empty();
+	jQuery('title').text(homepage_title);
+}
+function verticalimageflow(){
+	jQuery('.project-slides').find('.myimage').each(function(){
+		var current_image = jQuery(this);
+		if(current_image.is("img")){
+			jQuery('<img />').attr("src",this.src).load(function(){
+				if((this.width < 980) && (this.width != 0)){
+					var img_max_width = this.width+"px";
+					var img_width = '100%';
+				}else{
+					var img_max_width = '100%';
+					var img_width = '100%';
+				}
+				current_image.closest('.project-slide-image').css({ 'max-width' : img_max_width, 'width' : img_width });
+				current_image.next('span').delay(800).css({"opacity" : 1});
+			});
+		}
+	});
+}
+function supports_history_api(){
+	return !!(window.history && history.pushState);
+}
+
+	var popped = ('state' in window.history && window.history.state !== null), initialURL = location.href;
+	window.onpopstate = function(ev){
+		//console.log(ev.state);
+		// Ignore inital popstate that some browsers fire on page load
+		var initialPop = !popped && location.href == initialURL;
+		popped = true;
+		if(initialPop){ return; }
+
+		var evstate = ev.state?ev.state:{};
+		if(!evstate.cancelback){
+			closePortfolioItem();
+		}else{
+			if(evstate.projid || evstate.projid == 0){
+				bringPortfolio(evstate.projid);
+			}
+		}
+	}
+</script>
+<script type="text/javascript">
+// center videos inside elements
+function centerIsotopeVideos(){
+	jQuery('.element').each(function(){
+		var $this = jQuery(this);
+		if($this.find('video').get(0) !== undefined){
+			$this.find('video').bind("loadedmetadata", function(){
+				var video_width = $this.find('video').get(0).videoWidth;
+				var video_height = $this.find('video').get(0).videoHeight;
+				var cont_width = $this.width();
+				var cont_height = $this.height();
+
+				var cont_ratio = $this.width() / $this.height();
+				var video_ratio = $this.find('video').get(0).videoWidth / $this.find('video').get(0).videoHeight;
+
+				if(cont_ratio <= video_ratio){
+					$this.find('video').css({ 'width' : 'auto', 'height' : '100%', 'top' : 0 }).css({ 'left' : ~(($this.find('video').width()-$this.width())/2)+1 });
+					$this.find('video').addClass('project-img-visible');
+				}else{
+					$this.find('video').css({ 'width' : '100%', 'height' : 'auto', 'left' : 0 }).css({ 'top' : ~(($this.find('video').height()-$this.height())/2)+1 });
+					$this.find('video').addClass('project-img-visible');
+				}
+				$this.find('video').get(0).play();
+			}).trigger('loadedmetadata');
+		}
+	});
+}
+// center images inside elements
+function centerIsotypeImages(){
+	jQuery('.element').each(function(){
+		var $this = jQuery(this);
+
+		// Center images
+		if($this.find('img').get(0) === undefined){ return; }
+		var cont_ratio = $this.width() / $this.height();
+		var img_ratio = $this.find('img').get(0).width / $this.find('img').get(0).height;
+
+		if(cont_ratio <= img_ratio){
+			$this.find('img').css({ 'width' : 'auto', 'height' : '100%', 'top' : 0 }).css({ 'left' : ~(($this.find('img').width()-$this.width())/2)+1 });
+			$this.find('img').addClass('project-img-visible');
+		}else{
+			$this.find('img').css({ 'width' : '100%', 'height' : 'auto', 'left' : 0 }).css({ 'top' : ~(($this.find('img').height()-$this.height())/2)+1 });
+			$this.find('img').addClass('project-img-visible');
+		}
+	});
+	centerIsotopeVideos();
+}
+jQuery(window).load(function(){
+	centerIsotypeImages();
+});
+jQuery(document).ready(function(){
+
+    var $container = jQuery('#container');
+    var $containerSmall = jQuery('#content-small');
+
+      // add randomish size classes
+      $container.find('.element').each(function(){
+        var $this = jQuery(this),
+            number = parseInt( $this.find('.number').text(), 10 );
+        if ( number % 7 % 2 === 1 ) {
+          $this.addClass('width2');
+        }
+        if ( number % 3 === 0 ) {
+          $this.addClass('height2');
+        }
+		if ( number % 7 === 0 ) { //Rare because it picks random number from 1 to 11 and only 7 matches criteria
+          $this.addClass('width3');
+          $this.addClass('height3');
+        }
+      });
+
+	// Center images inside thumbnails on window resize end
+	var TO = false;
+	jQuery(window).bind("resize.centerisotypeimages", function(){
+		if(TO !== false){
+			clearTimeout(TO);
+		}
+		TO = setTimeout(centerIsotypeImages, 200);
+	});
+
+	// Snippet below is present because individual images load earlier than global window load happens
+	jQuery(".project-img").one("load",function(){
+		var $this = jQuery(this);
+		var cont_ratio = $this.parent().width() / $this.parent().height();
+		var img_ratio = $this.get(0).width / $this.get(0).height;
+		if(cont_ratio <= img_ratio){
+			$this.css({ 'width' : 'auto', 'height' : '100%', 'top' : 0 }).css({ 'left' : ~(($this.width()-$this.parent().width())/2)+1 });
+			$this.addClass('project-img-visible');
+		}else{
+			$this.css({ 'width' : '100%', 'height' : 'auto', 'left' : 0 }).css({ 'top' : ~(($this.height()-$this.parent().height())/2)+1 });
+			$this.addClass('project-img-visible');
+		}
+	});
+
+	
+    $container.isotope({
+      itemSelector : '.element',
+      masonry : {
+        //columnWidth : 120
+        columnWidth : 5,
+		gutterWidth: 5,
+      },
+      masonryHorizontal : {
+        rowHeight: 120
+      },
+      cellsByRow : {
+        columnWidth : 240,
+        rowHeight : 240
+      },
+      cellsByColumn : {
+        columnWidth : 240,
+        rowHeight : 240
+      },
+      getSortData : {
+        symbol : function( $elem ) {
+          return $elem.attr('data-symbol');
+        },
+        category : function( $elem ) {
+          return $elem.attr('data-category');
+        },
+        number : function( $elem ) {
+          return parseInt( $elem.find('.number').text(), 10 );
+        },
+        weight : function( $elem ) {
+          return parseFloat( $elem.find('.weight').text().replace( /[\(\)]/g, '') );
+        },
+        name : function ( $elem ) {
+          return $elem.find('.name').text();
+        }
+      }
+    });
+
+
+	var $optionSets = jQuery('#options .option-set'),
+	$optionLinks = $optionSets.find('a');
+
+	$optionLinks.click(function(){
+		var $this = jQuery(this);
+		// don't proceed if already selected
+		if ( $this.hasClass('selected') ) {
+			return false;
+		}
+		var $optionSet = $this.parents('.option-set');
+		$optionSet.find('.selected').removeClass('selected');
+		$this.addClass('selected');
+
+		// make option object dynamically, i.e. { filter: '.my-filter-class' }
+		var options = {},
+			key = $optionSet.attr('data-option-key'),
+			value = $this.attr('data-option-value');
+		// parse 'false' as false boolean
+		value = value === 'false' ? false : value;
+		options[ key ] = value;
+		if ( key === 'layoutMode' && typeof changeLayoutMode === 'function' ){
+			// changes in layout modes need extra logic
+			changeLayoutMode( $this, options );
+		}else{
+			// otherwise, apply new options
+			$container.isotope( options );
+		}
+
+		return false;
+	});
+
+	// change layout
+	var isHorizontal = false;
+	function changeLayoutMode( $link, options ) {
+		var wasHorizontal = isHorizontal;
+		isHorizontal = $link.hasClass('horizontal');
+
+		if ( wasHorizontal !== isHorizontal ) {
+			// orientation change
+			// need to do some clean up for transitions and sizes
+			var style = isHorizontal ?
+			{ height: '80%', width: $container.width() } :
+			{ width: 'auto' };
+			// stop any animation on container height / width
+			$container.filter(':animated').stop();
+			// disable transition, apply revised style
+			$container.addClass('no-transition').css( style );
+			setTimeout(function(){
+				$container.removeClass('no-transition').isotope( options );
+			}, 100 )
+		} else {
+			$container.isotope( options );
+		}
+	}
+
+	
+	// close bringPortfolio()
+	//jQuery('#compact_navigation_container').delegate('.header-back-to-blog-link', 'click', function(){
+	jQuery('.header-back-to-blog-link').on('click', function(){
+		// If button is supposed to redirect to some external URL
+		if(jQuery(this).hasClass('back-link-external')){ return; }
+		// Usual action of button
+		jQuery('.portfolio_box').removeClass('portfolio_box-visible');
+		jQuery('body').removeClass('daisho-portfolio-viewing-project');
+		jQuery('#compact_navigation_container').removeClass('compact_navigation_container-visible');
+		jQuery('.project-coverslide').removeClass('project-coverslide-visible');
+		jQuery('.project-navigation').removeClass('project-navigation-visible');
+		jQuery('.portfolio-arrowright').removeClass('portfolio-arrowright-visible');
+		jQuery('.portfolio-arrowleft').removeClass('portfolio-arrowleft-visible');
+		jQuery('.project-slides').empty();
+		jQuery('title').text(homepage_title);
+		var document_title = "PHILIPP ZURMÖHLE";
+		var portfoliohistorywpurl = "";
+		window.history.pushState({}, document_title, ((portfoliohistorywpurl)?("/"+portfoliohistorywpurl+""):"/"));
+	});
+
+	// Close project on background click
+	/* jQuery(document).on('click', '.project-coverslide', function(){
+		closePortfolioItem();
+	}); */
+
+	// change size of clicked element
+	$container.delegate( '.element', 'click', function(){
+		if(jQuery(this).find('.thumbnail-link').length != 0){ return; }
+		var current_id = jQuery(this).find('.id').text();
+		bringPortfolio(current_id);
+		portfolio_closenum = 0;
+		portfolio_closedir = false;
+		//  jQuery(this).toggleClass('large');
+		//  $container.isotope('reLayout', centerIsotypeImages);
+	});
+
+	// Prevent thumbnail links from working unless they are external links. They are for search engines only. In no-js mode it's going to enable links.
+	$container.on('click', '.thumbnail-project-link', function(e){
+		e.preventDefault();
+	});
+	$containerSmall.on('click', '.thumbnail-project-link', function(e){
+		e.preventDefault();
+	});
+
+	// change size of clicked element (small)
+	$containerSmall.on('click', '.element', function(){
+		if(jQuery(this).find('.thumbnail-link').length != 0){ return; }
+		var current_id = jQuery(this).find('.id').text();
+		bringPortfolio(current_id);
+	});
+
+	// toggle variable sizes of all elements
+	jQuery('#toggle-sizes').find('a').click(function(){
+		if(jQuery(this).hasClass('toggle-selected')){ return false; }
+		jQuery('#toggle-sizes').find('a').removeClass('toggle-selected');
+		jQuery(this).addClass('toggle-selected');
+		if(!jQuery('#toggle-sizes a:first-child').hasClass('toggle-selected')){
+			$container.find('.element').addClass('element-small');
+		}else{
+			$container.find('.element').removeClass('element-small');
+		}
+		//$container.find('img').fadeOut(0);
+		$container
+			.toggleClass('variable-sizes')
+			.isotope('reLayout');
+		centerIsotypeImages();
+		return false;
+	});
+
+
+/*       jQuery('#insert a').click(function(){
+        var $newEls = jQuery( fakeElement.getGroup() );
+        $container.isotope( 'insert', $newEls );
+
+        return false;
+      });
+
+      jQuery('#append a').click(function(){
+        var $newEls = jQuery( fakeElement.getGroup() );
+        $container.append( $newEls ).isotope( 'appended', $newEls );
+
+        return false;
+      }); */
+
+
+	var $sortBy = jQuery('#sort-by');
+	jQuery('#shuffle a').click(function(){
+		$container.isotope('shuffle');
+		$sortBy.find('.selected').removeClass('selected');
+		$sortBy.find('[data-option-value="random"]').addClass('selected');
+		return false;
+	});
+});
+</script>
+
+	<div style="clear:both;"></div>
+	<footer id="footer">
+		<div class="inner">
+						<div class="container_12">
+				<div class=" grid_6 push_6 last"><ul class="footer-widget-container"><li id="text-3" class="widget widget_text">			<div class="textwidget">COPYRIGHT 2013 PHILIPP ZURMÖHLE, GRAPHIC DESIGN & ILLUSTRATION</div>
+		</li></ul></div>			</div>
+			<div class="clear"></div>
+		</div>
+	</footer>
+			<a id="scroll-to-top" href="#" title="Scroll to Top">Top</a>
+			<div class="mobile_app_menu_main_wrapper">
+		<div class="mobile_app_menu_main_wrapper_inner" style="padding-right: 100px; height: 100%;">
+			<div class="mobile_app_menu_main_wrapper_inner2" style="width: 100%; overflow: auto; height: 100%; box-shadow: 0 0 15px rgba(0,0,0,0.25); background-color: #FFFFFF;">
+									<a class="header-back-to-blog-link " href="javascript:void(null);">
+						<div class="header-back-to-blog clearfix">
+							<div class="header-back-to-blog-icon"></div>
+							<div class="header-back-to-blog-icon-svg">
+								<svg version="1.1" class="compact-header-arrow-back-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19.201px" height="34.2px" viewBox="0 0 19.201 34.2" enable-background="new 0 0 19.201 34.2" xml:space="preserve" style="height: 45px; width: 35px; display: block; position: absolute; top: 0; bottom: 0; margin: auto;">
+									<polyline fill="none" points="17.101,2.1 2.1,17.1 17.101,32.1 "/>
+								</svg>
+							</div>
+							<div class="header-back-to-blog-message">Back</div>
+						</div>
+					</a>
+								
+				<form role="search" method="get" id="searchform" action="http://www.philippzm.com/">
+    <div>
+		<!-- <label class="screen-reader-text" for="s"></label> -->
+        <input type="text" value="" placeholder="Search..." name="s" id="sidebar-search-input" />
+        <input type="submit" id="searchsubmit" value="&#xf002;" class="sidebar-search-submit" />
+    </div>
+</form>				
+				<div class="menu-hauptnavigation-container"><ul id="mobile_app_menu" class="menu"><li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-depth-0"><a href="http://www.philippzm.com/"><span>SHOWCASE</span></a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-has-submenu parent"><a href="http://www.philippzm.com/brand-identity/"><span>BRAND IDENTITY</span></a>
+<ul class="sub-menu level-0">
+	<li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/leonardo/">LEONARDO – LOGO REDESIGN</a></li>
+	<li id="menu-item-1731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/von-und-zu-buch/">VON &#038; ZU BUCH BOOK SHOP IDENTITY</a></li>
+	<li id="menu-item-657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/ding-3000-identity/">DING 3000 IDENTITY</a></li>
+	<li id="menu-item-1224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/black-fox-identity/">BLACK FOX IDENTITY</a></li>
+	<li id="menu-item-1279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/morten-strauch/">MORTEN STRAUCH PHOTOGRAPHER&#8217;S IDENTITY</a></li>
+	<li id="menu-item-1737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/slik-identity-concept/">SLIK – IDENTITY CONCEPT</a></li>
+	<li id="menu-item-1833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/tassta-identity/">TASSTA – IDENTITY</a></li>
+	<li id="menu-item-1920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/logos/">LOGOS</a></li>
+</ul>
+</li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-has-submenu parent"><a href="http://www.philippzm.com/illustration/"><span>ILLUSTRATION</span></a>
+<ul class="sub-menu level-0">
+	<li id="menu-item-553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/seven-monkeys/">SEVEN MONKEYS – POSTER ILLUSTRATION</a></li>
+	<li id="menu-item-777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/brush-n-arrow/">BRUSH &#038; ARROW – ART PRINT</a></li>
+	<li id="menu-item-548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/buff-scarves/">ORIGINAL BUFF &#8211; ILLUSTRATIONS FOR SCARVES</a></li>
+	<li id="menu-item-813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/herr-menig-optik-ad-postcard-illustrations/">HERR MENIG OPTIK – AD &#038; POSTCARD ILLUSTRATIONS, PART ONE</a></li>
+	<li id="menu-item-966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/bear-n-shapes/">BEAR &#038; SHAPES ILLUSTRATIONS</a></li>
+	<li id="menu-item-1016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/herr-menig-optik-ad-postcard-illustrations-part-2/">HERR MENIG OPTIK – AD &#038; POSTCARD ILLUSTRATIONS, PART TWO</a></li>
+	<li id="menu-item-1073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/impossible-gardens/">IMPOSSIBLE GARDENS</a></li>
+	<li id="menu-item-546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/soft-gallery-kids-clothing-graphics/">SOFT GALLERY – KIDS CLOTHING GRAPHICS</a></li>
+	<li id="menu-item-1297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/phy-if-you/">PHY &#8211; IF YOU – COVER DESIGN</a></li>
+	<li id="menu-item-545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/soft-gallery-kids-clothing-graphics/">SOFT GALLERY – KIDS CLOTHING GRAPHICS</a></li>
+	<li id="menu-item-942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/adidas-cool-culture/">ADIDAS COOL CULTURE RANGE</a></li>
+	<li id="menu-item-910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/adidas-t-shirt-graphics/">ADIDAS T-SHIRT GRAPHICS</a></li>
+	<li id="menu-item-750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/adidas-apparel-graphics/">ADIDAS – APPAREL GRAPHICS</a></li>
+	<li id="menu-item-1345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/jazz-jazz-jazz/">JAZZ JAZZ JAZZ ILLUSTRATION</a></li>
+</ul>
+</li>
+<li id="menu-item-1668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-has-submenu parent"><a href="http://www.philippzm.com/print-design/"><span>PRINT</span></a>
+<ul class="sub-menu level-0">
+	<li id="menu-item-1658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/phy-if-you/">PHY &#8211; IF YOU – COVER DESIGN</a></li>
+	<li id="menu-item-1724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/sonnendeck-festival/">SONNENDECK FESTIVAL – FLYER POSTCARD</a></li>
+	<li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/von-und-zu-buch/">VON &#038; ZU BUCH BOOK SHOP IDENTITY</a></li>
+	<li id="menu-item-1743" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/adidas-exploratorium/">ADIDAS – EXPLORATORIUM POSTERS</a></li>
+	<li id="menu-item-1767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/neonchocolate-gallery-flyer/">NEONCHOCOLATE GALLERY – FLYER DESIGN</a></li>
+	<li id="menu-item-1785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/morten-strauch/">MORTEN STRAUCH PHOTOGRAPHER&#8217;S IDENTITY</a></li>
+	<li id="menu-item-1779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/generate-magazine/">GENERATE MAGAZINE – PUBLICATION CONCEPT</a></li>
+	<li id="menu-item-1832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/tassta-identity/">TASSTA – IDENTITY</a></li>
+</ul>
+</li>
+<li id="menu-item-1684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-has-submenu parent"><a href="http://www.philippzm.com/web-design/"><span>WEB</span></a>
+<ul class="sub-menu level-0">
+	<li id="menu-item-1755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/expo-nova/">EXPO NOVA – WEBSITE DESIGN</a></li>
+	<li id="menu-item-1685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/ding-3000-identity/">DING 3000 IDENTITY</a></li>
+	<li id="menu-item-1786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/morten-strauch/">MORTEN STRAUCH PHOTOGRAPHER&#8217;S IDENTITY</a></li>
+	<li id="menu-item-1831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/tassta-identity/">TASSTA – IDENTITY</a></li>
+	<li id="menu-item-2140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/?page_id=2135">ZURMÖHLE JUWELIERE WEBSITE</a></li>
+</ul>
+</li>
+<li id="menu-item-728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0 menu-item-has-submenu parent"><a href="http://www.philippzm.com/artworks/"><span>ARTWORKS</span></a>
+<ul class="sub-menu level-0">
+	<li id="menu-item-681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/enlightenment-series/">ENLIGHTENMENT SERIES</a></li>
+	<li id="menu-item-1114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/monkey-drawings/">MONKEY DRAWINGS</a></li>
+	<li id="menu-item-1804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/duppy-conqueror-drawing/">DUPPY CONQUEROR – DRAWING</a></li>
+	<li id="menu-item-1251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/urban-outfitters-wall-drawing/">URBAN OUTFITTERS – WALL DRAWING</a></li>
+	<li id="menu-item-1252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/brush-n-arrow/">BRUSH &#038; ARROW – ART PRINT</a></li>
+	<li id="menu-item-1761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/konkrete-utopien/">KONKRETE UTOPIEN – ART INSTALLATION</a></li>
+	<li id="menu-item-1773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/snyrt/">SNYRT – SERIES OF ARTWORKS</a></li>
+	<li id="menu-item-2342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="http://www.philippzm.com/travel-sketches/">TRAVEL SKETCHES</a></li>
+</ul>
+</li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0"><a href="http://www.philippzm.com/profile-contact/"><span>PROFILE &#038; CONTACT</span></a></li>
+</ul></div>							</div>
+		</div>
+	</div>
+		<div class="mobile_app_settings_wrapper">
+		<div class="fma-sharing-icons clearfix">
+			<a href="https://twitter.com/share?url=http://www.philippzm.com/&amp;text=SHOWCASE" target="_blank" class="fma-sharing-icons-icon-wrapper fma-sharing-icons-twitter" data-default-link="http://www.philippzm.com/" data-default-text="SHOWCASE">
+				<span class="fma-sharing-icons-icon">t</span>
+				<span class="fma-sharing-icons-tooltip" data-tooltip="Twitter">Twitter</span>
+			</a>
+			<a href="http://www.facebook.com/sharer.php?u=http://www.philippzm.com/&amp;t=SHOWCASE" target="_blank" class="fma-sharing-icons-icon-wrapper fma-sharing-icons-facebook" data-default-link="http://www.philippzm.com/" data-default-text="SHOWCASE">
+				<span class="fma-sharing-icons-icon">f</span>
+				<span class="fma-sharing-icons-tooltip" data-tooltip="Facebook">Facebook</span>
+			</a>
+			<a href="https://plus.google.com/share?url=http://www.philippzm.com/" target="_blank" class="fma-sharing-icons-icon-wrapper fma-sharing-icons-googleplus" data-default-link="http://www.philippzm.com/" data-default-text="SHOWCASE">
+				<span class="fma-sharing-icons-icon">g</span>
+				<span class="fma-sharing-icons-tooltip" data-tooltip="Google+">Google+</span>
+			</a>
+					</div>
+	</div>
+	<script type='text/javascript' src='http://www.philippzm.com/wp-content/themes/daisho/modules//jscache.js?ver=3.5.2'></script>
+<script type='text/javascript' src='http://www.philippzm.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.philippzm.com/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.philippzm.com/wp-includes/js/jquery/ui/jquery.ui.accordion.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.philippzm.com/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js?ver=1.9.2'></script>
+		</body>
+</html>

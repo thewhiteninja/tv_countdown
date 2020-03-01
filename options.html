@@ -1,0 +1,129 @@
+﻿<html>
+	<head>
+		<title>TV Countdown Options</title>
+		<link rel="stylesheet" media="screen" type="text/css" href="css/smoothness/jquery-ui-1.10.3.custom.min.css" />	
+		<link rel="stylesheet" media="screen" type="text/css" href="css/colorpicker.css" />
+		<link rel="stylesheet" media="screen" type="text/css" href="css/options.css" />
+		<script type="text/javascript" src="js/jquery-2.0.3.min.js"></script>
+		<script type="text/javascript" src="js/jquery-ui-1.10.3.custom.min.js"></script>
+		<script type="text/javascript" src="js/colorpicker.js"></script>
+		<script type="text/javascript" src="js/utils.js"></script>
+		<script type="text/javascript" src="js/options.js"></script>
+	</head>
+	<body>
+		<div id="panel">
+			<div id="tabs">
+				<ul>
+					<li><a class="title" href="#tabs-1">Your series <span id="titleCount"></span></a></li>
+					<li><a class="title" href="#tabs-2">Options</a></li>
+					<li><a class="title" href="#tabs-3">About</a></li>
+				</ul>
+				<div id="tabs-1">
+					<center>
+						<br/>
+						<span id="letterlist"><a href="#other">#</a><a href="#a">a</a><a href="#b">b</a><a href="#c">c</a><a href="#d">d</a><a href="#e">e</a><a href="#f">f</a><a href="#g">g</a><a href="#h">h</a><a href="#i">i</a><a href="#j">j</a><a href="#k">k</a><a href="#l">l</a><a href="#m">m</a><a href="#n">n</a><a href="#o">o</a><a href="#p">p</a><a href="#q">q</a><a href="#r">r</a><a href="#s">s</a><a href="#t">t</a><a href="#u">u</a><a href="#v">v</a><a href="#w">w</a><a href="#x">x</a><a href="#y">y</a><a href="#z">z</a></span>
+						<br/><br/>
+						<img id="loading" src="images/loader.gif" alt="loading ..."/>
+						<table id="list">
+						
+						</table>
+					</center>
+					<br/>
+					<br/>
+				</div>		
+				<div id="tabs-2">
+					<center>
+					  <table id="options">
+						<tr>
+						  <th>
+							<center>Description</center>
+						  </th>
+						  <th>
+							<center>Value</center>
+						  </th>
+						</tr>
+						<tr>
+						  <td colspan="2">&nbsp;</td>
+						</tr>
+						<tr>
+						  <td>
+							<center>Previous episodes displayed (<span id="previousvalue">1</span>)</center>
+						  </td>
+						  <td style="padding:2.4ex 1em 2.4ex 1em;">
+							<center><div id="previous" style="width:50%">  </div>
+							</center>
+						  </td>
+						</tr>				
+						<tr style="background-color:#EDEEEE">
+						  <td>
+							<center>Next episodes displayed (<span id="nextvalue">1</span>)</center>
+						  </td>
+						  <td style="padding:2.4ex 1em 2.4ex 1em;">
+							<center><div id="next" style="width:50%">  </div>
+
+							</center>
+						  </td>
+						</tr>
+						<tr>
+						  <td>
+							<center>Show badge</center>
+						  </td>
+						  <td>
+							<center>
+							  <input type="checkbox" id="badge"/><label for="badge">Show</label>
+							</center>
+						  </td>
+						</tr>				
+						<tr style="background-color:#EDEEEE">
+						  <td>
+							<center>Badge background color</center>
+						  </td>
+						  <td>
+							<center>
+							  <div id="colorSelector" style="width:100px;height:20px;border-radius:5px;border:1px solid black">&nbsp;</div>
+							</center>
+						  </td>
+						</tr>			
+						<tr>
+						  <td>
+							<center>Reset your favorite shows</center>
+						  </td>
+						  <td>
+							<center>
+							  <input type="button" id="reset" value="Reset !"/>
+							</center>
+						  </td>
+						</tr>
+					  </table>
+					</center>
+				</div>
+				<div id="tabs-3" style="font-family:arial,sans-serif; font-size:11px;">
+					<center>
+					  <br/>
+					  <h2>TVCountdown Extension v3</h2>
+					  <ul style="list-style-type:none;padding:0px">
+						<li><a href="mailto:tvcountdown.ext@gmail.com?subject=[TVCountdown Extension] Question">Ask questions</a></li>
+						<li><a href="mailto:tvcountdown.ext@gmail.com?subject=[TVCountdown Extension] Missing images">Report missing images in popup</a></li>
+						<li><a href="mailto:tvcountdown.ext@gmail.com?subject=[TVCountdown Extension] Bugs">Report bugs</a></li>
+					  </ul>
+					  <br/>
+					  <hr/>
+					  <br/>
+					  <p>Designed, Developed by <span style="font-weight:bold;font-size:13px;"><a href="mailto:tvcountdown.ext@gmail.com">Xxxxx</a></span> :)</p>
+					  <br/>
+					  <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+						<input type="hidden" name="cmd" value="_s-xclick">
+						<input type="hidden" name="hosted_button_id" value="XZ3UPHKHEC9BJ">
+						<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+						<img alt="" border="0" src="https://www.paypal.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
+					  </form>
+					  <br/>
+					  <p>Huge thanks to those of you who have already contributed !</p>
+					  <br/>
+					</center>
+				</div>
+			</div>
+			<br/><br/><br/><br/>	
+		</div>
+	</body>
+</html>
