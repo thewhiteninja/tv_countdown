@@ -31,6 +31,7 @@ Just select your series in "Options", and click on the extension's icon.
 
 - Does the extension still work ?
   - No, it needs some updates to comply Chrome Web Store Policy.
+  - Last version 3.0.0.3 (09/14)
 
 # Screenshots
 
